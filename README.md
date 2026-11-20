@@ -75,7 +75,6 @@ g++ -std=c++17 DNA_Sequence_Assembler.cpp -o DNA_Sequence_Assembler
 ./DNA_Sequence_Assembler
 ```
 
-> Tip: keep the file name without spaces, otherwise the VS Code Run button can't compile it.
 
 ### Menu
 ```
